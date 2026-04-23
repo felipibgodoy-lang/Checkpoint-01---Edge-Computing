@@ -58,8 +58,7 @@ O sensor LDR capta a intensidade luminosa do ambiente e envia um sinal analógic
 
 ## 💻 Simulação
 
-* 🔗 Tinkercad: *(adicione o link aqui)*
-* 🔗 Wokwi: *(adicione o link aqui)*
+* 🔗 Tinkercad (modo editor): *(https://www.tinkercad.com/things/5vje9jUHpd1-cp1-edge-/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=5w4zcdQE6STZ0iBKhwvKRyUI7zBJMZrZlxJ4tXw8xbo)*
 
 ---
 
@@ -75,7 +74,7 @@ O sensor LDR capta a intensidade luminosa do ambiente e envia um sinal analógic
 
 ## 🎥 Vídeo
 
-📹 *(adicione o link do vídeo aqui)*
+📹 *Vídeo YouTube: (https://youtu.be/dBjjVYqXtDc?si=SxgaZQPMbuNwQFhK)*
 
 ---
 
