@@ -74,7 +74,7 @@ O sensor LDR capta a intensidade luminosa do ambiente e envia um sinal analógic
 
 ## 🎥 Vídeo
 
-📹 *Vídeo YouTube: (https://youtu.be/dBjjVYqXtDc?si=SxgaZQPMbuNwQFhK)*
+📹 *Vídeo YouTube: (https://www.youtube.com/watch?v=jzAz7xVgNYU)*
 
 ---
 
